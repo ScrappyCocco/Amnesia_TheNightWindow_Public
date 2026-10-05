@@ -19,7 +19,9 @@ It is a night map, so it is obviously better played in a dark room. It is also s
 
 ### Download
 
-// TO ADD
+* [Steam Workshop (recommended)](https://steamcommunity.com/sharedfiles/filedetails/?id=3813989622)
+* [Github](https://github.com/ScrappyCocco/Amnesia_TheNightWindow_Public/releases)
+* [Nexus Mods](https://www.nexusmods.com/amnesiathebunker/mods/49)
 
 ### Settings
 
